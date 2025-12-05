@@ -2,7 +2,7 @@
     "builds": [
       {
         "name": "Forge 1.16.5",
-        "version": "1.0.5",
+        "version": "1.16.5",
         "description": "Сборка модов для Minecraft 1.16.5 на Forge",
         "mods": [
           {
@@ -18,5 +18,6 @@
     ]
 
   }
+
 
 
