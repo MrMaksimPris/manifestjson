@@ -4,6 +4,7 @@
         "name": "Forge 1.16.5",
         "version": "1.0.0",
         "description": "Сборка модов для Minecraft 1.16.5 на Forge",
+        "minevers": "1.16.5",
         "mods": [
           {
             "name": "journeymap-1.16.5.jar",
@@ -18,4 +19,5 @@
     ]
 
   }
+
 
